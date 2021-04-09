@@ -1,5 +1,7 @@
 prevent permission to op sync
 
+update : https://github.com/ikas-mc/Prevent-Op-Sync-Patcher
+
 ```java
 //PermissionPolicyService.class
 
